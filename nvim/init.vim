@@ -11,7 +11,7 @@ set title " Show file title
 set wildmenu " Show a more advance menu
 filetype plugin indent on   " Allow auto-indenting depending on file type
 syntax on
-set spell " enable spell check (may need to download language package)
+set nospell " enable spell check (may need to download language package)
 set ttyfast " Speed up scrolling in Vim
 
 
